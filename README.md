@@ -1,1 +1,1 @@
-# odin-recipes
+En este proyecto estare utilizando las habilidades que he adquirido en las clases anteriores.
